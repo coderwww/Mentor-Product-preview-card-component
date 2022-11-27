@@ -60,7 +60,7 @@ body {
 
 .product-preview .sub-header {
     text-transform: uppercase;
-    font: var(--font-bold) 85% var(--font-family-Montserrat);
+    font: var(--font-normal) 85% var(--font-family-Montserrat);
     letter-spacing: 5px;
     margin-bottom: 15px;
 }
@@ -95,6 +95,7 @@ body {
 .product-preview .button {
     display: block;
     background-color: var(--dark-cyan);
+    font-weight: var(--font-bold);
     color: var(--white);
     text-align: center;
     text-decoration: none;
