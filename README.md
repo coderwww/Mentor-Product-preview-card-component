@@ -25,12 +25,12 @@ Users should be able to:
 
 ![](./design/Screenshot-Product-preview-card-component-mobile.png)
 
-![](./design/Screenshot-Product-preview-card-component-desctop.png)
+![](./design/Screenshot-Product-preview-card-component-desktop.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/coderwww/Mentor-Product-preview-card-component](https://github.com/coderwww/Mentor-Product-preview-card-component)
+- Live Site URL: [https://coderwww.github.io/Mentor-Product-preview-card-component/](https://coderwww.github.io/Mentor-Product-preview-card-component/)
 
 ## My process
 
