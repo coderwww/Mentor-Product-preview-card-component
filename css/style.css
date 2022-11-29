@@ -42,6 +42,7 @@ body {
     align-self: center;
     -webkit-border-radius: 10px;
     border-radius: 10px;
+    overflow: hidden;
     font: var(--font-normal) var(--font-size) var(--font-family-Montserrat);
     color: var(--dark-grayish-blue);
     
@@ -50,8 +51,6 @@ body {
 .product-preview .product-img img {
     display: block;
     width: 100%;
-    -webkit-border-radius: 10px 10px 0 0;
-    border-radius: 10px 10px 0 0;
 }
 
 .product-preview .product-info {
@@ -118,7 +117,7 @@ body {
 }
 
 /* styles for desctop */
-@media only screen and (min-width: 700px) {
+@media only screen and (min-width: 768px) {
     .product-preview {
         max-width: 600px;
         display: flex;
@@ -126,8 +125,6 @@ body {
     }
     .product-preview .product-img img {
         width: 300px;
-        -webkit-border-radius: 10px 0 0 10px;
-        border-radius: 10px 0 0 10px;
     }
     .product-preview .product-info {
         padding: 30px;
