@@ -23,9 +23,9 @@ Users should be able to:
 
 ### Screenshot
 
-![](./design/Screenshot-Product-preview-card-component-mobile.png)
+![](./screenshots/screenshot-mobile.png)
 
-![](./design/Screenshot-Product-preview-card-component-desktop.png)
+![](./screenshots/screenshot-desktop.png)
 
 ### Links
 
